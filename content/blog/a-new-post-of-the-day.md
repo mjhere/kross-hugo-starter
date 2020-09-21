@@ -1,6 +1,7 @@
 +++
 date = 2020-09-20T22:00:00Z
 description = "Pepsi is now in the house and this is all about her. Enjoying life and doing stuff."
+draft = true
 image = "/images/1200px-pepsi_logo_2014-svg.png"
 title = "A new post of the day"
 
