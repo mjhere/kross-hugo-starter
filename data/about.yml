@@ -32,5 +32,7 @@ clients_logo_slider:
   enable: true
   title: My Clients
   item:
+  - logo: Another client
+    URL: http://www.google.com
   - logo: LOGO?
     URL: http://example.com
